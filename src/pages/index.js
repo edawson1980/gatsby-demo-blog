@@ -81,6 +81,12 @@ const badgeStyle = {
 // data
 const links = [
   {
+      text: "some link here",
+      url: "https://pizzahut.com",
+      description: "This link takes you to Pizza Hut",
+      color: "#343434",
+  },
+  {
     text: "Tutorial",
     url: "https://www.gatsbyjs.com/docs/tutorial/",
     description:
